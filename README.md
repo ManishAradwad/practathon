@@ -1,6 +1,8 @@
 # practathon
 Solution for the practathon problem statement:
 
+For explanation of the solution, refer this [medium article](https://medium.com/p/283d94f88542#9776-2eb9c8ae202b) and [video](https://www.youtube.com/watch?v=W4TuVaQqBhk)
+
 Instructions to run(using Google colab):
 
 1. Upload the 16k images dataset in your Google drive
