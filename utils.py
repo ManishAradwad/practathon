@@ -1,5 +1,12 @@
 from PIL import Image
 import numpy as np
+import config
+
+height = config.height
+width = config.width
+n_clusters = config.n_clusters
+p = config.p
+alpha = config.alpha
 
 # This function does all preprocessing needed
 def preprocess(image_path):
