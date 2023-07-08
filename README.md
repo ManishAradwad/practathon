@@ -6,5 +6,10 @@ For explanation of the solution, refer this [medium article](https://medium.com/
 Instructions to run(using Google colab):
 
 1. Upload the 16k images dataset in your Google drive
-
 2. Run the notebook, give the 4D input vector when prompted consisting of your feedback (1 for positive, -1 for negative)
+
+Instructions to run(using cloned repo):
+
+1. Download the dataset and extract it
+2. Specify the path of the dataset in config.py
+3. Run the main.py file
